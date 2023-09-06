@@ -40,15 +40,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Startpagina
-  <img src="readme-images/IMG_B2935A372A73-1.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/IMG_B2935A372A73-1.jpeg" width="250px" alt="beginpagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="reeadme-images/IMG_0864A7D22F06-1.jpeg" width="375px" alt="omschrijving van de pagina">
+  "Menu"-pagina 
+  <img src="readme-images/IMG_0864A7D22F06-1.jpeg" width="250px" alt="pagina met menu">
 
   #### Screenshot(s) van de eventuele derde pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/IMG_B88EB7AC1C1C-1.jpeg" width="375px" alt="omschrijving van de pagina">
+  "Kom werken"-pagina
+  <img src="readme-images/IMG_B88EB7AC1C1C-1.jpeg" width="250px" alt="pagina over bij US komen werken">
  
 </details>
 
