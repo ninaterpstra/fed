@@ -48,7 +48,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eventuele derde pagina (small screen):
   hier de naam van de pagina  
-  <img src="IMG_0864A7D22F06-1.jpeg" width="375px" alt="omschrijving van de pagina">
+  <img src="IMG_B88EB7AC1C1C-1.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
