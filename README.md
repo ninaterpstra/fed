@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  (https://www.urbansalad.nl/)
+  https://www.urbansalad.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
@@ -57,7 +57,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  De website die ik heb gekozen, is redelijk goed gemaakt voor een Voice Over. Alles wordt goed uitgesproken, alleen een aantal 
+  afbeeldingen zijn niet goed omschreven. Ook is er gebruik gemaakt van een duidelijke taal, zonder bijvoorbeeld metaforen. 
 </details>
 
 
