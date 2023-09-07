@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nina Terpstra
 
   #### Je startniveau:
-  Rood
+  Blauw
 
   #### Je focus:
   responsive óf surface plane????
