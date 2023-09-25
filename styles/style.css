@@ -1,31 +1,181 @@
-/**************/
-/* CSS REMEDY */
-/**************/
-*, *::after, *::before {
-  box-sizing:border-box;  
+body {
+  background-color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1;
+  margin-bottom: 100px;
+  position: sticky; 
+  top: 0;
+  background-color: white;
+}
+
+main {
+  margin-top: 50px;
+}
+
+header a{
+  grid-column-start: 2;
+}
+
+h1 {
+  color: black;
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+h2 {
+  color: black;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 17px;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 17px;
+  max-width: 80%;
+}
+
+li {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+li a {
+  color: #262626;
+  background-color: transparent;
+}
+
+img {
+  height: auto;
 }
 
 
+.header-item {
+  width: 33%;
+  height: 20px;
+}
 
+.imgalgemeen {
+  height: auto;
+  width: 100%;
+}
 
+footer {
+  background-color: black;
+  color: white;
+}
 
+a {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #262626;
+  color: white;
+  padding: 7px;
+}
 
-/*********************/
-/* CUSTOM PROPERTIES */
-/*********************/
-:root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+a.logo {
+  background-color: transparent;
+}
+
+a.button {
+  background-color:#1b5a40;
+  color: white;
+  padding: 10px;
+  padding-inline: 122px;
+  border: none;
+  font-size: 30px;
+}
+
+#zomerspecials {
+  background-color: rgb(234, 241, 225);
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#zomerspecials img {
+  margin-top: 15px;
+}
+
+#menu {
+  background-color: rgb(106, 182, 78);
+}
+
+#ingrediënten {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigatiebar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 
+.link_nav {
+  transition: 0.7s ease;
+}
 
+.hamburger {
+  display: none;
+  cursor: pointer;
+}
 
+.bar {
+  display: block;
+  width: 20px;
+  height: 2px;
+  margin: 5px auto;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  background-color: #9e9e9e;
+}
 
-/****************/
-/* JOUW STYLING */
-/****************/
+@media(max-width: 768px) {
+  .hamburger {
+    display: block;
+  }
 
-/* jouw code */
+  .hamburger_menu.active .bar:nth-child(2) {
+    opacity: 0;
+  }
 
+  .hamburger_menu.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+
+  .hamburger_menu.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .menu_nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    width: 100%;
+    z-index: 2;
+    position: fixed;
+    left: -100%;
+    top: 70px;
+    flex-direction: column;
+    transition: 0.3s;
+  }
+
+  .menu_nav.active {
+    left: 0;
+  }
+}
