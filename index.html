@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<html>
 
 <head>
     <meta charset="UTF-8">
@@ -11,129 +10,149 @@
 
 <body>
     <header>
-        <nav class="navigatiebar">
-            <ul class="menu_nav">
-                <li class="item-nav"><a href="#" class="link_nav"> Menu</a></li>
-                <li class="item-nav"><a href="#" class="link_nav"> Catering</a></li>
-                <li class="item-nav"><a href="#" class="link_nav"> Werken bij </a></li>
-                <li class="item-nav"><a href="#" class="link_nav"> Contact</a></li>
+        <nav>
+            <ul class="menu_nav"> <!-- nog weghalen -->
+                <li><a href="#"> Menu</a></li>
+                <li class="line"></li> <!-- kunnen die weg? -->
+                <li><a href="#"> Catering</a></li>
+                <li class="line"></li>
+                <li><a href="werkenbij.html"> Werken bij </a></li>
+                <li class="line"></li>
+                <li><a href="#"> Contact</a></li>
+                <li class="line"></li>
                 <li><a href="# "><img src="images/18166.jpg" alt="Keuze te vertalen in het engels"> </a></li>
             </ul>
 
-            <div class="hamburger_menu">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
+            <div class="hamburger_menu"> <!-- wat in plaats van div -->
+                <hr>
+                <hr>
+                <hr>
             </div>
         </nav>
 
-                <a href="#" class="logo"><img src="images/Logo-US-plain.png" alt="Logo Urban Salad"></a>
+        <a href="#"><img src="images/Logo-US-plain.png" alt="Logo Urban Salad"></a>
+
+        <div><button>Bestellen</button></div>
     </header>
 
+    <section class="slideshow">
+        <ul>
+            <li><img src="images/slide1.png" alt="slide1"></li>
+            <li><img src="images/slide2.png" alt="slide2"></li>
+            <li><img src="images/slide3.png" alt="slide3"></li>
+        </ul>
+    </section>
 
     <main>
+        <a href="#">Bestellen</a>
+
         <section>
-
-            <a class="button" href="#">Bestellen</a>
-
             <section>
                 <h1>Salads, wraps, soups & juices</h1>
-                <img id="streep" src="images/streepwit.png" alt="streep">
+                <img src="images/streepwit.png" alt="streep">
                 <p>Urban Salad staat voor versbereide maaltijdsalades en wraps. Snel, gezond en bovenal heel erg lekker
                     eten. Onze huisgemaakte dressings zijn met zorg bereid en bestaan uit pure en eerlijke ingrediënten.
                 </p>
             </section>
 
-            <section id="kenmerken">
-                <img src="images/hart.png" alt="hart icoon">
-                <h2>Gezond en lekker</h2>
-            </section>
+            <section class="flexwrap">
+                <section>
+                    <img src="images/hart.png" alt="hart icoon">
+                    <h2>Gezond en lekker</h2>
+                </section>
 
-            <section id="kenmerken">
-                <img src="images/soup.png" alt="soep icoon">
-                <h2>Dagelijks vers</h2>
-            </section>
+                <section>
+                    <img src="images/soup.png" alt="soep icoon">
+                    <h2>Dagelijks vers</h2>
+                </section>
 
-            <section id="kenmerken">
-                <img src="images/fiets.png" alt="fiets icoon">
-                <h2>Snel en flexibel</h2>
+                <section>
+                    <img src="images/fiets.png" alt="fiets icoon">
+                    <h2>Snel en flexibel</h2>
+                </section>
             </section>
         </section>
 
-        <section id="zomerspecials">
+        <article>
             <h1>Zomer specials</h1>
-            <img id="streep" src="images/streepgroen.png" alt="streep">
-            <section>
-                <img src="images/Coconut-chicken-salad-urban-salad-300x300.png" alt="Salade coconut chicken">
-                <h3>Coconut chicken/tempeh</h3>
-                <ul id="ingrediënten">
-                    <li>spinazie</li>
-                    <li>witte kool</li>
-                    <li>komkommer</li>
-                    <li>mango</li>
-                    <li>koriander</li>
-                    <li>pinda’s</li>
-                    <li>rode peper</li>
-                    <li>gegrilde kippendijen of gegrilde tempeh (V)</li>
-                    <li>dressing: gele curry-kokos dressing</li>
-                </ul>
-            </section>
-
-
-            <section>
-                <h1></h1>
+            <img src="images/streepgroen.png" alt="streep">
                 <section>
-                    <img src="images/fruitfull-summer-min-min-300x300.png" alt="Salade fruitfull summer">
-                    <h3>Fruitful summer (v)</h3>
-                    <ul id="ingrediënten">
+                    <img src="images/Coconut-chicken-salad-urban-salad-300x300.png" alt="Salade coconut chicken">
+                    <h3>Coconut chicken/tempeh</h3>
+                    <img class="streepmethart" src="images/streepmethart.png" alt="streep met hart in het midden">
+                    <!-- class weghalen -->
+                    <ul>
                         <li>spinazie</li>
-                        <li>Hollandse aardbeien</li>
-                        <li>blauwe bessen</li>
-                        <li>quinoa</li>
-                        <li>amandelschaafsel</li>
-                        <li>verse basilicum</li>
-                        <li>geitenkaas</li>
-                        <li>dressing: basilicum olijfolie</li>
+                        <li>witte kool</li>
+                        <li>komkommer</li>
+                        <li>mango</li>
+                        <li>koriander</li>
+                        <li>pinda’s</li>
+                        <li>rode peper</li>
+                        <li>gegrilde kippendijen of gegrilde tempeh (V)</li>
+                        <li>dressing: gele curry-kokos dressing</li>
                     </ul>
                 </section>
 
+
                 <section>
-                    <h1></h1>
                     <section>
-                        <img src="images/salsabowl-300x300.png" alt="Salade salsabowl">
-                        <h3>Salsa bowl</h3>
-                        <ul id="ingrediënten">
-                            <li>romaine</li>
-                            <li>rode paprika</li>
-                            <li>zwarte bonen</li>
-                            <li>mais</li>
-                            <li>zoetzure rode ui</li>
-                            <li>nachos</li>
-                            <li>crème fraîche</li>
-                            <li>gegrilde kippendijen of gegrilde tempeh (V)</li>
-                            <li>dressing: Mexican salsa (licht pittig)</li>
+                        <img src="images/fruitfull-summer-min-min-300x300.png" alt="Salade fruitfull summer">
+                        <h3>Fruitful summer (v)</h3>
+                        <img class="streepmethart" src="images/streepmethart.png" alt="streep met hart in het midden">
+                        <ul>
+                            <li>spinazie</li>
+                            <li>Hollandse aardbeien</li>
+                            <li>blauwe bessen</li>
+                            <li>quinoa</li>
+                            <li>amandelschaafsel</li>
+                            <li>verse basilicum</li>
+                            <li>geitenkaas</li>
+                            <li>dressing: basilicum olijfolie</li>
                         </ul>
+                    </section>
+
+                    <section>
+                        <section>
+                            <img src="images/salsabowl-300x300.png" alt="Salade salsabowl">
+                            <h3>Salsa bowl</h3>
+                            <img class="streepmethart" src="images/streepmethart.png"
+                                alt="streep met hart in het midden">
+                            <ul>
+                                <li>romaine</li>
+                                <li>rode paprika</li>
+                                <li>zwarte bonen</li>
+                                <li>mais</li>
+                                <li>zoetzure rode ui</li>
+                                <li>nachos</li>
+                                <li>crème fraîche</li>
+                                <li>gegrilde kippendijen of gegrilde tempeh (V)</li>
+                                <li>dressing: Mexican salsa (licht pittig)</li>
+                            </ul>
+                        </section>
                     </section>
                 </section>
             </section>
-        </section>
+        </article>
 
         <section>
-            <img class="imgalgemeen" src="images/uszuidas.png" alt="Saladebar Zuidas">
-            <section id="menu">
+            <section id="menu"> <!-- lukte niet weghalen, zin er boven ook niet -->
+                <img class="imgalgemeen" src="images/uszuidas.png" alt="Saladebar Zuidas">
                 <h1>Het menu</h1>
                 <p>Kies jouw favoriet uit het ruime assortiment</p>
-                <a href="https://gmpg.org/xfn/11">Bekijk het menu</a>
+                <a href="#">Bekijk het menu</a>
             </section>
 
+            <!-- class weghalen -->
             <img class="imgalgemeen" src="images/us-catering.png" alt="Salade met bestek en dressing">
 
-            <section>
+            <section id="werk"> <!-- class weghalen -->
                 <h1>Urban jobs?</h1>
                 <p>Kijk hier voor actuele vacatures.</p>
-                <a href="https://gmpg.org/xfn/11">Bekijk onze vacatures</a>
+                <a href="#">Bekijk onze vacatures</a>
             </section>
 
+            <!-- class weghalen -->
             <img class="imgalgemeen" src="images/jobs.png" alt="Stapel salades">
         </section>
     </main>
@@ -142,15 +161,11 @@
 
 <footer>
     <p>Copyright © Urban Salad 2012-2018.</p>
-    <ul>
-        <li><a href="#">Alle rechten voorbehouden </a></li>
-        <li><a href="#"> Voedingswaarden </a></li>
-        <li><a href="#">Loyalty</a></li>
-    </ul>
+    <section>
+        <p>Alle rechten voorbehouden <span></span>Voedingswaarden <span></span>Loyalty</p>
+    </section>
 </footer>
 
 <script src="script.js"></script>
-
-</html>
 
 </html>
