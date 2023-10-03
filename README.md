@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  responsive óf surface plane????
+  responsive 
  
 </details>
 
@@ -134,6 +134,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
                                           ver
 
 <img src="moeiteslider.png" alt="halve slider">
+
+De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook niet stopt. Naast dat hij niet stopt, weet ik dat één lange afbeelding niet de juiste manier is en wil ik dat de slider het doen met drie verschillende afbeeldingen.
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
