@@ -234,13 +234,17 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Ik heb sowieso veel geleerd op het gebied van responsive maken en het gebruiken van een grid. Ik weet nu ook hoe ik met flex-wrap nu   
+  moet werpen en de basis respinsive maken ging erg snel en goed. Ook een hamburger menu ging aan de hand van een video erg gemakkelijk en 
+  daarbij begreep ik (sowieso bij alles wat ik deed) goed wat ik aan het doen was.
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Ik heb geleerd hoe een grid werkt, maar die ik moest maken vond ik erg ingewikkeld. Vooral om de grid responsive te maken lukte niet     
+  heel goed, zo is hij wel goed op desktop formaat en iphone 12 pro formaat maar niet bij alle maten er tussen in of juist er buiten.
+
+  <img src="grotegrid.png" alt="bummer">
 </details>
 
 
@@ -256,8 +260,8 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://www.youtube.com/watch?v=flItyHiDm7E voor het hamburger menu
+  2. https://css-tricks.com/css-only-carousel/ voor de slider
+  3. https://cssgridgarden.com/#nl voor de grids
 
 </details>
