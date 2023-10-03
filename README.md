@@ -216,7 +216,19 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="iphonehomepage.png" alt="uitomst">
+    <img src="iphonehomepage2.png" alt="uitomst">
+      <img src="iphonehomepage.3png" alt="uitomst">
+        <img src="iphonehomepage4.png" alt="uitomst">
+          <img src="iphonehomepage5.png" alt="uitomst">
+            <img src="iphonewerkpage.png" alt="uitomst">
+              <img src="iphonewerkpage2.png" alt="uitomst">
+                <img src="werkpage.png" alt="uitomst">
+                       <img src="werkpage.png" alt="uitomst">
+                              <img src="homepage.png" alt="uitomst">
+                                      <img src="homepage2.png" alt="uitomst">
+                                              <img src="homepage3.png" alt="uitomst">
+                                                      <img src="homepage4.png" alt="uitomst">
 
 
   ### Dit ging goed/Heb ik geleerd: 
