@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   De website die ik heb gekozen, is redelijk goed gemaakt voor een Voice Over. Alles wordt goed uitgesproken, alleen een aantal 
-  afbeeldingen zijn niet goed omschreven. Ook is er gebruik gemaakt van een duidelijke taal, zonder bijvoorbeeld metaforen. 
+  afbeeldingen zijn niet goed omschreven. Ook is er gebruik gemaakt van een duidelijke taal, zonder bijvoorbeeld metaforen. Wel komen er een aantal onderdelen niet voor in de Voice-over die je wel op de site ziet.
 </details>
 
 
@@ -96,20 +96,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Ik heb nog geen| ik twijfel nog     | ik ben wel al| Ik weet welke    |
+  | goede site     | tussen twee sites  | begonnen met | site ik wil gaan |
+  | gevonden       | en moet mijn github| mijn site,   | doen maar ik loop|
+  |                | nog aanmaken       | maar niet ver| vast met github  |
+                                          
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - Een aantal hebben nog geen site
+  - Een student loopt vast met github maar wordt geholpen door medestudent
+  - Een student twijfelde nog maar heeft samen met een andere student een site gekozen
+  - De studenten moeten wel harder gaan werken om op schema te blijven
+    
 </details>
 
 
@@ -129,19 +129,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | het lukt mij   | een hamburger-menu | het gaat     | bij lukken de    |
+  | niet om een    | wil mij niet lukken| eigenlijk wel| dropdowns en de  |
+  | slider te maken| en mij lukt de     | goed, maar ik| slider ook niet  |
+  |                | slider ook niet    | ben nog niet |                  |
+                                          ver
 
+<img src="moeiteslider" alt="halve slider">
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - De meeste hebben de basis al van de website
+  - Er wordt veel tegen de complexere items aangelopen
+  - Zo wil het maken van een slider bij niemand lukken
+  - Een hamburger menu en dropdowns willen sommige ook niet lukken
+  - Studenten uit de groep kunnen elkaar wel helpen bij moeilijkheden want anderen begrijpen wel de hamburger menu's en dropdowns
 
 </details>
 
