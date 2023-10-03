@@ -135,7 +135,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   |                | slider ook niet    | ben nog niet |                  |
                                           ver
 
-<img src="moeiteslider" alt="halve slider">
+<img src="moeiteslider.png" alt="halve slider">
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
