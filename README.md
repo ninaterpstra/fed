@@ -161,7 +161,7 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   benoemd door de Voice-Over en dat ook met een duidelijke benaming. Ook zijn de knoppen en linkjes nu beter klikbaar, zo was de 
   hamburger-menu op de originele site heel klein en heb ik die een stuk groter gemaakt. Het contrast in kleuren was al erg goed, maar 
   heb ik nog wat verbeterd door de knoppen die bijna zwart waren gewoon zwart te maken. Ook heb ik tussen een aantal items wat meer 
-  ruimte gezet om een duidelijk onderscheid te krijgen. In de originele site had je ook minimaal 3 h1's per pagina en dat heb ik terug     gebracht naar 1 h1 per pagina. Ook werden eerst voor alle links button-elementen gebruikt, die heb ik bij de juiste veranderd in a- 
+  ruimte gezet om een duidelijk onderscheid te krijgen. In de originele site had je ook minimaal 3 h1's per pagina en dat heb ik terug       gebracht naar 1 h1 per pagina. Ook werden eerst voor alle links button-elementen gebruikt, die heb ik bij de juiste veranderd in a- 
   elementen. En hoe er in de mobiele versie van de site geen slider stond, heb ik die in mijn site wel ook voor de mobiele gebruikers 
   zichtbaar gemaakt.
 
@@ -181,7 +181,7 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   gebruikers. Ik ben begonnen met het responsive maken en een heleboel onderdelen gingen eigenlijk al goed mee. Ik ben nu veel met de 
   "@media" bezig en tot nu toe lukt dat erg goed.
 
-  <img src="" alt="grote grid">
+  <img src="grotegrid.png" alt="grote grid">
   
   ### Agenda voor meeting
   samen met je groepje opstellen
