@@ -156,6 +156,14 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  Naast dat er in plaats van 2 fouten en 95 waarschuwingen er nu alleen nog 8 waarschuwingen over zijn en dus nu de HTML wel gevalideerd 
+  wordt, zijn er ook een aantal andere dingen uit de test gekomen die anders zijn. Zo worden nu alle elementen die je ziet op de pagina 
+  benoemd door de Voice-Over en dat ook met een duidelijke benaming. Ook zijn de knoppen en linkjes nu beter klikbaar, zo was de 
+  hamburger-menu op de originele site heel klein en heb ik die een stuk groter gemaakt. Het contrast in kleuren was al erg goed, maar 
+  heb ik nog wat verbeterd door de knoppen die bijna zwart waren gewoon zwart te maken. Ook heb ik tussen een aantal items wat meer 
+  ruimte gezet om een duidelijk onderscheid te krijgen. In de originele site had je ook minimaal 3 h1's per pagina en dat heb ik terug     gebracht naar 1 h1 per pagina. Ook werden eerst voor alle links button-elementen gebruikt, die heb ik bij de juiste veranderd in a- 
+  elementen. En hoe er in de mobiele versie van de site geen slider stond, heb ik die in mijn site wel ook voor de mobiele gebruikers 
+  zichtbaar gemaakt.
 
 </details>
 
@@ -169,26 +177,32 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik loop nog steeds vast met de slider en een grote grid, maar verder zijn de eerste en tweede pagina nu wel af voor de mobiele   
+  gebruikers. Ik ben begonnen met het responsive maken en een heleboel onderdelen gingen eigenlijk al goed mee. Ik ben nu veel met de 
+  "@media" bezig en tot nu toe lukt dat erg goed.
 
-
+  <img src="" alt="grote grid">
+  
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  | Ik loop tegen  | Ik ben begonnen met|Ik heb mijn   | Ik ben al        |
+  | de slider en   | het responsive     | eerste pagina| begonnen aan de  |
+  | grid aan, maar | maken maar kom er  | responsive   | tweede pagina    |
+  | verder ben ik  | niet goed uit      | gemaakt maar | responsive te    |
+    klaar om                              moet nog een   maken maar de 1e
+    responsive te                         hele pagina    is nog niet goed 
+    maken                                 maken          gelukt
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - Iedereen loopt ongeveer wel gelijk en op schema
+  - De studenten hebben moeite met verschillende onderdelen
+  - De studenten kunnen elkaar helpen en het elkaar goed uitleggen
+  - Een aantal hebben moeite met het responsive maken en twijfelen toch om het niet responsive te maken
+  - Een iemand moet nog een hele tweede pagina maken
 
 </details>
 
