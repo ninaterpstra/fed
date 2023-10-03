@@ -89,7 +89,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik wist al welke site ik wilde gaan doen, namelijk die van mijn werk. Aangezien daar nog heel veel aan verbeterd kan worden. Alleen 
+  alleen had ik wel moeite met Github. Voor mij is het totaal niet logisch en ook met de uitleg er naast was het moeilijk. Daarbij kwam 
+  mijn site maar niet online.
 
 
   ### Agenda voor meeting
@@ -122,7 +124,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb de basis al, maar de moeilijke dingen als een automatische slider met afbeeldingen en een hamburgermenu lukt mij niet. Ik ben 
+  er al erg lang mee bezig maar kom er niet uit, ook niet met uitlegfilmpjes op bijvoorbeeld Youtube of uitleg op sites als w3schools en 
+  css-tricks.
 
 
   ### Agenda voor meeting
@@ -147,9 +151,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Studenten uit de groep kunnen elkaar wel helpen bij moeilijkheden want anderen begrijpen wel de hamburger menu's en dropdowns
 
 </details>
-
-
-
 
 
 ## Toegankelijkheidstest 2/2 (week 4)
