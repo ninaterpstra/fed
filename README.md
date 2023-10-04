@@ -266,5 +266,8 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
   1. https://www.youtube.com/watch?v=flItyHiDm7E voor het hamburger menu
   2. https://css-tricks.com/css-only-carousel/ voor de slider
   3. https://cssgridgarden.com/#nl voor de grids
+  4. https://flexboxfroggy.com/#nl
+  5. https://www.w3schools.com/css/css_dropdowns.asp voor mijn dropdowns
+  6. https://www.w3schools.com/ voor een aantal kleine items
 
 </details>
