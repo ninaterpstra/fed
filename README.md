@@ -168,7 +168,7 @@ De slider is nu een hele lange afbeelding die van links naar rechts gaat en ook 
 </details>
 
 <img src="Scherm­afbeelding 2023-10-04 om 13.21.37.png" alt="wcag pagina 1">
-<img src="Scherm­afbeelding 2023-10-04 om 13.21.27.png" alt="wcag pagina 2">
+<img src="Scherm­afbeelding 2023-10-04 om 13.21.47.png" alt="wcag pagina 2">
 <img src="Scherm­afbeelding 2023-10-04 om 13.22.06.png" alt="wcag pagina 3">
 <img src="Scherm­afbeelding 2023-10-04 om 13.22.16.png" alt="wcag pagina 4">
 <img src="Scherm­afbeelding 2023-10-04 om 13.22.32.png" alt="wcag pagina 5">
